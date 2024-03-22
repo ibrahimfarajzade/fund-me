@@ -1,4 +1,4 @@
-# FundMe
+# Remix FundMe
 
 The FundMe smart contract is a decentralized fundraising platform built on the Ethereum blockchain. It allows users to contribute Ether (ETH) to fund projects or causes of their choice.
 
